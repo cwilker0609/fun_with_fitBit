@@ -6,15 +6,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-11 01:14:24</sys_created_on>
         <sys_id>6530eef1419312007f442bbd1a5d87b2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>redirectURL</sys_name>
         <sys_package display_value="fitbit" source="x_fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_package>
         <sys_policy/>
         <sys_scope display_value="fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_scope>
         <sys_update_name>sys_rest_message_fn_parameters_6530eef1419312007f442bbd1a5d87b2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-11 01:14:24</sys_updated_on>
+        <sys_updated_on>2021-01-01 22:43:43</sys_updated_on>
         <type>string</type>
-        <value>https://[your instance]/oauth_redirect.do</value>
+        <value>https://dev95833.service-now.com/oauth_redirect.do</value>
     </sys_rest_message_fn_parameters>
 </record_update>

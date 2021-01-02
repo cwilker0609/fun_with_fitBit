@@ -6,22 +6,22 @@
         <basic_auth_profile/>
         <basic_auth_user/>
         <description/>
-        <name>fitbit friends</name>
+        <name>Fitbit</name>
         <oauth2_profile display_value="fitbitOauth default_profile">e9361eb1419312007f442bbd1a5d8711</oauth2_profile>
         <protocol_name/>
-        <rest_endpoint>https://api.fitbit.com/1/user/-/friends.json</rest_endpoint>
+        <rest_endpoint>https://api.fitbit.com/1.1/user/-/friends.json</rest_endpoint>
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-01 22:39:10</sys_created_on>
         <sys_id>ae9e45082f212010e0de59a72799b6cc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>fitbit friends</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Fitbit</sys_name>
         <sys_package display_value="fitbit" source="x_fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_package>
         <sys_policy/>
         <sys_scope display_value="fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_scope>
         <sys_update_name>sys_rest_message_ae9e45082f212010e0de59a72799b6cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-01 22:39:10</sys_updated_on>
+        <sys_updated_on>2021-01-02 03:01:37</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>

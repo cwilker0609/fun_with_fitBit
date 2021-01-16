@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Fitbit Steps" max_length="40" name="x_fitbit_fitbit_steps" type="collection">
+    <element label="Fitbit Steps" max_length="40" name="x_fitbit_fitbit_steps" sizeclass="1835" type="collection">
         <element label="date" max_length="40" name="date" type="glide_date"/>
         <element label="value" max_length="40" name="value" type="integer"/>
     </element>
